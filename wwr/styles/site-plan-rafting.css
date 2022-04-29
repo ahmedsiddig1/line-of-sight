@@ -9,7 +9,7 @@ Fonts are separated by a | */
   --primary-color: #023e8a;
   --secondary-color: #00b4d8 ;
   --accent1-color: #ade8f4;
-  --accent2-color: white;
+  --accent2-color: ;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Tapestry";
@@ -21,10 +21,10 @@ Fonts are separated by a | */
   --paragraph-color-on-white: #396E94; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #FFFFFF; /* paragraph text on a colored background */ 
   --paragraph-background-color: #023e8a;
-  --nav-link-color: #396E94;
-  --nav-background-color: #D4AC0D;
+  --nav-link-color: #00080e;
+  --nav-background-color: #0dc7d4;
   --nav-hover-link-color: white;
-  --nav-hover-background-color: #396E94;
+  --nav-hover-background-color: #0d09f3;
 }
 
 
