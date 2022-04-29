@@ -6,7 +6,7 @@ Fonts are separated by a | */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #023e8a  ;
+  --primary-color: #023e8a;
   --secondary-color: #00b4d8 ;
   --accent1-color: #ade8f4;
   --accent2-color: white;
@@ -98,7 +98,7 @@ p.colored {
   color: var(--paragraph-color-on-color);
 }
 nav {
-  background-color: var(--nav-background-color);
+  background-color: #00b4d8 var(--nav-background-color);
   line-height: 3em;
   text-align: center;
   font-size: 1.2em;
@@ -114,11 +114,11 @@ nav a {
   padding: 10px;
 }
 nav a:link, nav a:visited {
-  color: var(--nav-link-color);
+  color: #FFFFFF var(--nav-link-color);
 }
 nav a:hover {
-  color: var(--nav-hover-link-color);
-  background-color: var(--nav-hover-background-color);
+  color: #023e8a var(--nav-hover-link-color);
+  background-color: #ade8f4 var(--nav-hover-background-color);
 }
 .sitemap {
   display: grid;
