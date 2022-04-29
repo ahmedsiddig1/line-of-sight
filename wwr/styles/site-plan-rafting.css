@@ -98,7 +98,7 @@ p.colored {
   color: var(--paragraph-color-on-color);
 }
 nav {
-  background-color: #00b4d8 var(--nav-background-color);
+  background-color: #00b8d8 var(--nav-background-color);
   line-height: 3em;
   text-align: center;
   font-size: 1.2em;
@@ -114,11 +114,11 @@ nav a {
   padding: 10px;
 }
 nav a:link, nav a:visited {
-  color: #FFFFFF var(--nav-link-color);
+  color: var(--nav-link-color);
 }
 nav a:hover {
-  color: #023e8a var(--nav-hover-link-color);
-  background-color: #ade8f4 var(--nav-hover-background-color);
+  color: var(--nav-hover-link-color);
+  background-color: var(--nav-hover-background-color);
 }
 .sitemap {
   display: grid;
