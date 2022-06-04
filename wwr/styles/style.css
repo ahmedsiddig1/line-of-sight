@@ -149,7 +149,6 @@ h2 {
 
 #logo_link  {
     padding-top: 5px;
-    padding-top: 5px;
     justify-self: center;
     align-self: center;
 }
@@ -198,7 +197,7 @@ nav {
 
 .home-grid {
     display: grid;
-    grid-template-columns: (10, 1fr);
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 
 }
 
