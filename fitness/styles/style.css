@@ -8,7 +8,7 @@ nav a {
     text-align: center;
     text-decoration: none;
     padding: 35px;
-    color: white;
+    color: blue;
 }
 
 #fit-msg h1, #fit-msg h4{
@@ -25,7 +25,7 @@ main section {
 }
 
 body {
-    background-color: #ffffff;
+    background-color: #EFD3D7;
     font-family: Lato;
     font-size: 22px;
     margin: 0;
@@ -33,7 +33,7 @@ body {
 }
 
 header {
-    background-color: red;
+    background-color: #CBC0D3;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -44,7 +44,7 @@ nav a:hover {
 }
 
 #background {
-    background-color: red;
+    background-color: #CBC0D3;
     grid-column: 1/11;
     grid-row: 4/9;
 }
@@ -60,7 +60,7 @@ nav a:hover {
 }
 
 footer {
-    background-color: red;
+    background-color: #CBC0D3;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -69,14 +69,14 @@ footer {
 }
 
 .home-title {
-    color: red;
+    color: blue;
     font-family: "Tapestry";
     font-size: 2em;
     margin-top: 10px;
 }
 
 h4 {
-    color: red;
+    color: blue;
 }
 
 .msg h2 {
@@ -95,7 +95,7 @@ footer h3 {
 }
 
 footer a {
-    color:rgb(250, 251, 253);
+    color:blue
     text-decoration: none;
 }
 
@@ -172,7 +172,7 @@ nav {
 }
 
 #fit-msg h4 {
-    color: red;
+    color: blue;
 }
 
 .home-grid {
