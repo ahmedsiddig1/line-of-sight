@@ -37,14 +37,14 @@ body {
 }
 
 header {
-    background-color: #55756c;
+    background-color: white;
     display: grid;
     grid-template-columns: 150px auto;
 }
 
 nav a:hover {
-    background-color: rgb(179, 179, 128);
-    color: green;
+    background-color: rgb(11, 11, 11);
+    color: white;
 }
 
 .book, .join {
